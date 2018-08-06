@@ -4,7 +4,6 @@ using Microsoft.Bot.Builder;
 using Microsoft.Bot.Builder.Core.Extensions;
 using Microsoft.Bot.Schema;
 using Microsoft.Bot.Builder.Dialogs;
-using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -22,7 +21,6 @@ namespace DnDClassCreationBot
         bool result = false;
 
         CharacterBuilder DnDBuilder = new CharacterBuilder();
-        //CharacterSuggestion SuggestedChar = new CharacterSuggestion();
 
         public DnDBot()
         {
@@ -33,14 +31,16 @@ namespace DnDClassCreationBot
             {
                 async (dc, args, next) =>
                 {
-                    await dc.Prompt("charPrompt", "What character would you like to play from Lord of the Rings? If you don't know, say so!");
+                    await dc.Prompt("charPrompt", "What character would you like to " +
+                        "play from Lord of the Rings? If you don't know, say so!");
                 },
                 async(dc, args, next) =>
                 {
                     lotrChar = args["Text"].ToString().ToLowerInvariant();
                     if (lotrChar.Contains("dont know") || lotrChar.Contains("no"))
                     {
-                        await dc.Prompt("rolePrompt", "Okay let's try a different question: What kind of role do you want to try: Melee, Ranged, Support, or Healer?");
+                        await dc.Prompt("rolePrompt", "Okay let's try a different question: " +
+                            "What kind of role do you want to try: Melee, Ranged, Support, or Healer?");
                     }
                     else
                     {
