@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<races>
+  <race name="Aarakocra">
+    <attributes>+2 Dexterity, +1 Wisdom</attributes>
+    <traits>Flight, Talons</traits>
+  </race>
+  <race name="Aasimar">
+    <attributes>+2 Charisma</attributes>
+    <traits>Darkvision, Celestial Resistance, Healing Hands, Light Bearer</traits>
+  </race>
+  <race name="Bugbear">
+    <attributes>+2 Strength, +1 Dexterity</attributes>
+    <traits>Darkvision, Long-Limbed, Powerful Build, Sneaky, Surprise Attack</traits>
+  </race>
+  <race name="Centaur">
+    <attributes>+2 Strength, +1 Wisdom</attributes>
+    <traits>Charge, Hooves, Equine Build, Survivor, Hybrid Nature</traits>
+  </race>
+  <race name="Changeling">
+    <attributes>+2 Charisma, +1 Dexterity or Intelligence</attributes>
+    <traits>Change Appearance, Changeling Instincts, Unsettling Visage, Divergent Persona</traits>
+  </race>
+  <race name="Dragonborn">
+    <attributes>+2 Strength, +1 Charisma</attributes>
+    <traits>Draconic Ancestry, Breath Weapon, Damage Resistance</traits>
+  </race>
+  <race name="Dwarf">
+    <attributes>+2 Constitution</attributes>
+    <traits>Darkvision, Dwarven Resilence, Dwarven Combat Training, Stonecunning</traits>
+  </race>
+  <race name="Elf">
+    <attributes>+2 Dexterity</attributes>
+    <traits>Darkvision, Keen Senses, Fey Ancestry, Trance</traits>
+  </race>
+  <race name="Firbolg">
+    <attributes>+2 Wisdom, +1 Strength</attributes>
+    <traits>Firbolg Magic, Hidden Step, Powerful Build, Speech of Beast and Leaf</traits>
+  </race>
+  <race name="Gnome">
+    <attributes>+2 Intelligence</attributes>
+    <traits>Darkvision, Gnome Cunning</traits>
+  </race>
+  <race name="Goblin">
+    <attributes>+2 Dexterity, +1 Constitution</attributes>
+    <traits>Darkvision, Fury of the Small, Nimble Escape</traits>
+  </race>
+  <race name="Goliath">
+    <attributes>+2 Strength, +1 Constitution</attributes>
+    <traits>Natural Athlete, Stones Endurance, Powerful Build, Mountain Born</traits>
+  </race>
+  <race name="Half-Elf">
+    <attributes>+2 Charisma, +1 to Two Other Ability Scores</attributes>
+    <traits>Darkvision, Fey Ancestry, Skill Versatility</traits>
+  </race>
+  <race name="Halfling">
+    <attributes>+2 Dexterity</attributes>
+    <traits>Luck, Brave, Halfling Nimbleness</traits>
+  </race>
+  <race name="Half-Orc">
+    <attributes>+2 Strength, +1 Constitution</attributes>
+    <traits>Darkvision, Menacing, Relentless</traits>
+  </race>
+  <race name="Human">
+    <attributes>+1 Strength, +1 Dexterity, +1 Constitution, +1 Intelligence, +1 Wisdom, +1 Charisma</attributes>
+    <traits>Extra Language</traits>
+  </race>
+  <race name="Kenku">
+    <attributes>+2 Dexterity, +1 Wisdom</attributes>
+    <traits>Expert Forgery, Kenku Training, Mimicry</traits>
+  </race>
+  <race name="Kobold">
+    <attributes>+2 Dexterity, -2 Strength</attributes>
+    <traits>Darkvision, Grovel Cower and Beg, Pack Tactics, Sunlight Sensitivity</traits>
+  </race>
+  <race name="Lizardfolk">
+    <attributes>+2 Constitution, +1 Wisdom</attributes>
+    <traits>Bite, Cunning Artisan, Hold Breath, Hunters Lore, Natural Armor</traits>
+  </race>
+  <race name="Tabaxi">
+    <attributes>+2 Dexterity, +1 Charisma</attributes>
+    <traits>Darkvision, Feline Agility, Cats Claws, Cats Talent</traits>
+  </race>
+  <race name="Tiefling">
+    <attributes>+2 Charisma, +1 Intelligence</attributes>
+    <traits>Darkvision, Hellish Resistance, Infernal Legacy</traits>
+  </race>
+</races>

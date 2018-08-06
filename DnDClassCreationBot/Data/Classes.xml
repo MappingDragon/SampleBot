@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<classes>
+  <class name="Barbarian">
+    <hitDie>d10</hitDie>
+    <primaryAbility>Strength</primaryAbility>
+    <saves>Strength and Constitution</saves>
+  </class>
+  <class name="Bard">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Charisma</primaryAbility>
+    <saves>Dexterity and Charisma</saves>
+  </class>
+  <class name="Cleric">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Wisdom</primaryAbility>
+    <saves>Wisdom and Charisma</saves>
+  </class>
+  <class name="Druid">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Wisdom</primaryAbility>
+    <saves>Intelligence and Wisdom</saves>
+  </class>
+  <class name="Fighter">
+    <hitDie>d10</hitDie>
+    <primaryAbility>Strength, Dexterity</primaryAbility>
+    <saves>Strength and Constition</saves>
+  </class>
+  <class name="Monk">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Dexterity, Wisdom</primaryAbility>
+    <saves>Strength and Dexterity</saves>
+  </class>
+  <class name="Paladin">
+    <hitDie>d10</hitDie>
+    <primaryAbility>Strength, Charisma</primaryAbility>
+    <saves>Wisdom and Charisma</saves>
+  </class>
+  <class name="Ranger">
+    <hitDie>d10</hitDie>
+    <primaryAbility>Dexterity, Wisdom</primaryAbility>
+    <saves>Strength and Dexterity</saves>
+  </class>
+  <class name="Rogue">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Dexterity</primaryAbility>
+    <saves>Dexterity and Intelligence</saves>
+  </class>
+  <class name="Sorcerer">
+    <hitDie>d6</hitDie>
+    <primaryAbility>Charisma</primaryAbility>
+    <saves>Constition and Charisma</saves>
+  </class>
+  <class name="Warlock">
+    <hitDie>d8</hitDie>
+    <primaryAbility>Charisma</primaryAbility>
+    <saves>Wisdom and Charisma</saves>
+  </class>
+  <class name="Wizard">
+    <hitDie>d6</hitDie>
+    <primaryAbility>Intelligence</primaryAbility>
+    <saves>Intelligence and Wisdom</saves>
+  </class>
+</classes>

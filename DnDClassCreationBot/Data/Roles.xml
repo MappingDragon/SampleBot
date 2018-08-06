@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<roles>
+  <role name = "Melee"
+        suggestedclasses = "Fighter, Barbarian, Paladin, Ranger">
+  </role>
+  <role name = "Support"
+        suggestedclasses = "Bard, Ranger, Warlock, Cleric, Druid, Wizard, Sorceror, Warlock">
+  </role>
+  <role name = "Healer"
+        suggestedclasses = "Cleric, Druid, Bard, Paladin">
+  </role>
+  <role name = "Ranged"
+        suggestedclasses = "Ranger, Fighter, Bard, Wizard, Sorceror, Warlock">
+  </role>
+</roles>

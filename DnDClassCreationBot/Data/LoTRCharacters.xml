@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lotrChars>
+  <person name = "Gandalf"
+        suggestedroles = "Support, Ranged"
+        suggestedclasses = "Sorcerer, Druid, Wizard">
+  </person>
+  <person name = "Aragorn"
+        suggestedroles = "Ranged, Melee"
+        suggestedclasses = "Fighter, Ranger">
+  </person>
+  <person name = "Boromir"
+        suggestedroles = "Melee, Ranged"
+        suggestedclasses = "Fighter, Ranger, Barbarian">
+  </person>
+  <person name = "Legolas"
+        suggestedroles ="Ranged, Support"
+        suggestedclasses ="Ranger, Fighter">
+  </person>
+  <person name = "Frodo"
+        suggestedroles = "Melee, Support"
+        suggestedclasses = "Rogue, Bard">
+  </person>
+  <person name = "Sam"
+        suggestedroles = "Support, Melee, Healer"
+        suggestedclasses = "Rogue, Bard, Cleric">
+  </person>
+  <person name = "Merry"
+        suggestedroles = "Support, Healer"
+        suggestedclasses = "Bard, Cleric">
+  </person>
+  <person name = "Pippin"
+        suggestedroles = "Support, Ranged"
+        suggestedclasses = "Rogue, Bard, Ranger">
+  </person>
+  <person name = "Bilbo"
+        suggestedroles = "Melee, Ranged"
+        suggestedclasses = "Rogue, ">
+  </person>
+  <person name = "Saruman"
+        suggestedroles = "Ranged, Support"
+        suggestedclasses = "Wizard, Sorcerer, Warlock">
+  </person>
+  <person name = "Ayowen"
+        suggestedroles = "Support, Ranged"
+        suggestedclasses = "Cleric, Paladin, Ranger">
+  </person>
+  <person name = "Gimli"
+        suggestedroles ="Melee, Ranged"
+        suggestedclasses ="Fighter, Barbarian, Ranger">
+  </person>
+  <person name = "Galadriel"
+        suggestedroles = "Support, Ranged"
+        suggestedclasses = "Sorcerer, Warlock">
+  </person>
+  <person name = "Eowyn"
+        suggestedroles = "Melee, Ranged"
+        suggestedclasses = "Fighter, Ranger">
+  </person>
+  <person name = "Radaghast"
+        suggestedroles = "Support, Healer"
+        suggestedclasses = "Druid, Cleric, Wizard">
+  </person>
+  <person name = "Faramir"
+        suggestedroles = "Melee, Ranged"
+        suggestedclasses = "Fighter, Ranger">
+  </person>
+</lotrChars>
